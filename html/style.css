@@ -1,0 +1,36 @@
+@font-face {
+    font-family: airFont;
+    src : url( font/Parkinsans\,Playfair_Display.zip);
+    font-family: airs;
+    src : url(Parkinsans\,Playfair_Display\,Playwrite_US_Trad_Guides\,Roboto_Condensed.zip)
+}
+p{
+    font-family: airFont;
+    font-size: x-large;
+    color: white;
+    
+    background-color: rgb(2, 33, 88);
+    opacity: 2;
+}
+h3{
+    color: rgb(12, 255, 4);
+    font-size: xx-large;
+    background-color: black;
+}
+h4{
+    color: gold;
+    font-size: xx-large;
+    background-color: black;
+}
+a{
+    color: aqua;
+    background-color: darkgreen;
+    font-size: xx-large;
+}
+h5{
+    text-align: center;
+    font-family: airs;
+    color :chartreuse;
+    font-size: xx-large;
+    background-color: maroon;
+}
